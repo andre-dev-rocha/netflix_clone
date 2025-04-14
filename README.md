@@ -1,16 +1,8 @@
 # netflix_clone
 
-A new Flutter project.
+Essa é a atividade do dia 14/04/2025.
 
-## Getting Started
+## O que fazer quando utilizar git clone ...
 
-This project is a starting point for a Flutter application.
+Depois de fazer a clonagem, é necessário utilizar o comando flutter pub get para baixar as dependências necessárias para rodar o projeto.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
